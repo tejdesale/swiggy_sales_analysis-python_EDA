@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/tejdesale/swiggy_sales_analysis-python_EDA/main/391398-swiggy.avif" alt="Swiggy Sales Analysis" width="100%">
 </p>
 
-<h1 align="center">🍴 Swiggy Sales Analysis — Python EDA</h1>
+<h1 align="center">🍴 Swiggy Sales Analysis - Python EDA</h1>
 
 <p align="center">
   An end-to-end Exploratory Data Analysis of Swiggy order data using <b>Python, Pandas, Matplotlib, and Plotly</b>.
@@ -19,7 +19,7 @@
 
 ## 📌 Overview
 
-This project analyzes **197,430 Swiggy food orders** across India to uncover key business insights — revenue trends, top-performing states and cities, customer ratings, and order patterns over time. The goal is to simulate a real-world **food delivery analytics workflow**, from raw data to actionable KPIs and visualizations.
+This project analyzes **197,430 Swiggy food orders** across India to uncover key business insights - revenue trends, top-performing states and cities, customer ratings, and order patterns over time. The goal is to simulate a real-world **food delivery analytics workflow**, from raw data to actionable KPIs and visualizations.
 
 ---
 
@@ -38,7 +38,7 @@ This project analyzes **197,430 Swiggy food orders** across India to uncover key
 | `Rating` | Restaurant rating |
 | `Rating Count` | Number of ratings received |
 
-**Rows:** 197,430 &nbsp;•&nbsp; **Columns:** 10 &nbsp;•&nbsp; **Time Period:** Jan 2025 – Aug 2025
+**Rows:** 197,430 &nbsp;•&nbsp; **Columns:** 10 &nbsp;•&nbsp; **Time Period:** Jan 2025 - Aug 2025
 
 ---
 
@@ -58,12 +58,12 @@ This project analyzes **197,430 Swiggy food orders** across India to uncover key
 
 This project includes the following charts, all built with **Matplotlib** and **Plotly** (styled in Swiggy's brand orange `#FC8019`):
 
-- **Monthly Revenue Trend** — Line chart of sales across months
-- **Daily Revenue Trend** — Sales distribution across days of the week
-- **Veg vs Non-Veg Revenue Split** — Donut chart comparing food category contribution
-- **Revenue by State** — Horizontal bar chart ranking all states by total sales
-- **Quarterly Performance Summary** — Total sales, average rating, and order volume per quarter
-- **Top 5 Cities by Sales** — Highest revenue-generating cities
+- **Monthly Revenue Trend** - Line chart of sales across months
+- **Daily Revenue Trend** - Sales distribution across days of the week
+- **Veg vs Non-Veg Revenue Split** - Donut chart comparing food category contribution
+- **Revenue by State** - Horizontal bar chart ranking all states by total sales
+- **Quarterly Performance Summary** - Total sales, average rating, and order volume per quarter
+- **Top 5 Cities by Sales** - Highest revenue-generating cities
 
 ### Sample Insight Highlights
 - 🏆 **Karnataka** leads state-wise revenue, driven largely by **Bengaluru**
@@ -76,10 +76,10 @@ This project includes the following charts, all built with **Matplotlib** and **
 ## 🛠️ Tech Stack
 
 - **Python 3.10**
-- **Pandas** & **NumPy** — data cleaning and aggregation
-- **Matplotlib** & **Seaborn** — static visualizations
-- **Plotly Express** — interactive charts
-- **Google Colab** — development environment
+- **Pandas** & **NumPy** - data cleaning and aggregation
+- **Matplotlib** & **Seaborn** - static visualizations
+- **Plotly Express** - interactive charts
+- **Google Colab** - development environment
 
 ---
 
