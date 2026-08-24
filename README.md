@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tejdesale/swiggy_sales_analysis-python_EDA/main/391398-swiggy.avif" alt="Swiggy Sales Analysis" width="100%">
+  <img src="[https://raw.githubusercontent.com/tejdesale/swiggy_sales_analysis-python_EDA/main/391398-swiggy.avif](https://github.com/tejdesale/swiggy_sales_analysis-python_EDA/blob/main/Swiggy_OG.avif)" alt="Swiggy Sales Analysis" width="100%">
 </p>
 
 <h1 align="center">🍴 Swiggy Sales Analysis - Python EDA</h1>
